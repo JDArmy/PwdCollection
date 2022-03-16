@@ -1,0 +1,4 @@
+C:\toolpro\PwdCollection\PwdCollection\bin\x86\Release\PwdCollection.exe.config
+C:\toolpro\PwdCollection\PwdCollection\bin\x86\Release\PwdCollection.exe
+C:\toolpro\PwdCollection\PwdCollection\obj\x86\Release\PwdCollection.csproj.CoreCompileInputs.cache
+C:\toolpro\PwdCollection\PwdCollection\obj\x86\Release\PwdCollection.exe

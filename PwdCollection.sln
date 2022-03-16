@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwdCollection", "PwdCollection\PwdCollection.csproj", "{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}.Debug|x86.ActiveCfg = Debug|x86
+		{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}.Debug|x86.Build.0 = Debug|x86
+		{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}.Release|x86.ActiveCfg = Release|x86
+		{DA9EC565-4EF4-4E1E-8C2C-87BC92132ACD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A3C19A-B179-4289-A59C-0FECE2C427B0}
+	EndGlobalSection
+EndGlobal
